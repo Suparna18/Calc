@@ -1,0 +1,29 @@
+.container{
+    text-align: center;
+margin-top: 20px;
+
+}
+table{
+    margin:auto;
+
+}
+input{
+    font-size: 33px;
+    width:auto;
+    border-radius: 20px;
+    border: solid;
+}
+button{
+    font-size: 35px;
+    background: rgb(237, 69, 170);
+    width: 100px;
+    height: 60px;
+    border-radius: 10px;
+}
+.container{
+    background-color:blueviolet;
+    padding:20px;
+    border-radius: 50px;
+    display:inline-block;
+    
+}
